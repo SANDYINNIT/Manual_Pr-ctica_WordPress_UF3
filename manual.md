@@ -174,7 +174,9 @@ sudo updatedb
  /usr/lib/php/7.4/php.ini-production.cli
 ~~~
 
-Apareixen diferents fitxers `php.ini`, però ens interessa el `php.ini` del servidor `apache2`.
+Apareixen diferents fitxers `php.ini`, però ens interessa el `php.ini` del servidor `apache2`
+
+By the way to access the website as an administrator put this in the URL (IP)/wordpress/admin or (IP)/admin
 
 
 ## Activar visibilidad de la web
